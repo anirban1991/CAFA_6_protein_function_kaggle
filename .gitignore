@@ -1,0 +1,9 @@
+kaggle/input/cafa-6-protein-function-prediction/IA.tsv
+kaggle/input/cafa-6-protein-function-prediction/sample_submission.tsv
+kaggle/input/cafa-6-protein-function-prediction/Test/testsuperset-taxon-list.tsv
+kaggle/input/cafa-6-protein-function-prediction/Test/testsuperset.fasta
+kaggle/input/cafa-6-protein-function-prediction/Train/go-basic.obo
+kaggle/input/cafa-6-protein-function-prediction/Train/train_sequences.fasta
+kaggle/input/cafa-6-protein-function-prediction/Train/train_taxonomy.tsv
+kaggle/input/cafa-6-protein-function-prediction/Train/train_terms.tsv
+kaggle/input/protein-embeddings/fasta_embeddings_final.csv
